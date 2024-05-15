@@ -14,7 +14,10 @@ Now, after 18 months of dedicated learning and gaining a solid understanding of 
 
 🌱 I’m currently learning JavaScript and more about advanced web development techniques I've also been diving deeper into the nuances of C to enhance my skill set.
 
-
+- ### Projects
+- <a href="https://github.com/kidd1492/auto_django">auto_django</a> Sets up a new Django project with a virtual environment and installs Django.
+Generates a new app with necessary directories for templates and static files. Creates essential starter files like style.css, layout.html, and index.html.
+Configures URL routing for the app. Adds custom templates for different views.Runs makemigrations and migrate to create the database. Just createsuperuser and set up the account. when you log into the admin area the tables will be registered.
   
 - 🔭 I’m currently working on ...
 
