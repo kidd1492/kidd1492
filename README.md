@@ -18,8 +18,11 @@ Now, after 18 months of dedicated learning and gaining a solid understanding of 
 - <a href="https://github.com/kidd1492/auto_django">auto_django</a> Sets up a new Django project with a virtual environment and installs Django.
 Generates a new app with necessary directories for templates and static files. Creates essential starter files like style.css, layout.html, and index.html.
 Configures URL routing for the app. Adds custom templates for different views.Runs makemigrations and migrate to create the database. Just createsuperuser and set up the account. when you log into the admin area the tables will be registered.
+
+- <a href="https://github.com/kidd1492/SQLAlchemy-Database-Creation">SQLAlchemy_database_creation</a> This project involves collecting data from an API, parsing the JSON file to CSV, and then using SQLAlchemy to create a SQLite database.
   
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
+  - <a href="https://github.com/kidd1492/RESTfulAPI_creation">RESTfulAPI_creation</a> This repository contains a simple example of a Flask RESTful API that provides information about national parks and campsites. It's designed to serve as both a web application and an API endpoint that returns JSON data.
 
 - 👯 I’m looking to collaborate on ...
 
