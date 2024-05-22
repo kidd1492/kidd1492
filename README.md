@@ -13,6 +13,8 @@ Configures URL routing for the app. Adds custom templates for different views.Ru
 
 ### 🌱 I’m currently learning:
 JavaScript and more about advanced web development techniques I've also been diving deeper into the nuances of C to enhance my skill set.
+I made a simple site using html, css, javascript to orginize my notes.
+- <a href="https://github.com/kidd1492/javascriptNotes">javascript Notes</a>
 
 ## My Programming Journey 🌟
 I starting with Python and exploring Natural Language Processing (NLP) using NLTK. My path then took me to Data Analytics, where I learned to harness the power of libraries like pandas and matplotlib, and skills such as data collection, API integration, and data cleaning.
