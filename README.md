@@ -9,7 +9,7 @@ Configures URL routing for the app. Adds custom templates for different views.Ru
   - <a href="https://github.com/kidd1492/SQLAlchemy-Database-Creation">SQLAlchemy_database_creation</a> This project involves collecting data from an API, parsing the JSON file to CSV, and then using SQLAlchemy to create a SQLite database.
  
 ### - 🔭 I’m currently working on
-  - <a href="https://github.com/kidd1492/RESTfulAPI_creation">RESTfulAPI_creation</a> This repository contains a simple example of a Flask RESTful API that provides information about national parks and campsites. It's designed to serve as both a web application and an API endpoint that returns JSON data.
+  - <a href="https://github.com/kidd1492/RESTful_API">RESTful_API</a> This repository contains a simple example of a Flask RESTful API that provides information about national parks and campsites. It's designed to serve as both a web application and an API endpoint that returns JSON data.
 
 ### 🌱 I’m currently learning:
 JavaScript and more about advanced web development techniques I've also been diving deeper into the nuances of C to enhance my skill set.
