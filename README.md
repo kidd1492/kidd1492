@@ -9,7 +9,8 @@ I’m a cybersecurity enthusiast and self-taught programmer with a deep passion 
 ## 🚀 Projects  
 
 - **[Auto Django](https://github.com/kidd1492/auto_django)**  
-  Sets up a new Django project with a virtual environment and installs Django.  
+  Sets up a new Django project with a virtual environment and installs Django.
+  - Python Version and a C program Version.  
   - Generates essential starter files for quick development  
   - Configures URL routing and custom templates  
   - Automates database creation and superuser setup  
